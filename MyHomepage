@@ -1,0 +1,20 @@
+<html>
+<header> <title> Hen's Home Page </title> </header>
+<head> Hen's Page 
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+<div class="menu">
+<ul>
+<li><a href="Aboutme"> About Me </a></li>
+<li><a href="Contactme"> Contact Me </a></li>
+</ul>
+</div>
+<div>
+<p> This is an intro about me. I don't like html and css i really prefer pyhton and flask and databases. I am very very tired </p>
+</div>
+<div clas="picture">
+<img src="turtle.jpg">
+</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+body{ background-color:#d0e4fe}
+
+div{text-align:center}
+div.picture
+{
+	margin-left:auto;
+	margin-right:auto;
+	width: 6em
+}
+div.menu
+{
+	text-align:left;
+}
+
+table, th, td 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td 
+{
+    padding: 15px;
+}
+
+a{color:white}

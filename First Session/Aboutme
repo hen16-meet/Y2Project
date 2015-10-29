@@ -1,0 +1,43 @@
+<html>
+<header><title> About Me </title></header>
+<head> Read about me 
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+<div class="menu">
+<ul>
+<li><a href="MyHomepage"> Home Page </a></li>
+<li><a href="Contactme"> Contact Me </a></li>
+</ul>
+</div>
+<div>
+<table>
+<tr>
+	<td>Name</td>
+	<td> Hen GurArye</td>
+</tr><tr>
+	<td>Age</td>
+	<td> 16 </td>
+</tr><tr>
+	<td>Where I live</td>
+	<td>Kefar Tavor </td>
+</tr><tr>
+	<td>Family</td>
+	<td>Mom, Dad, Brother, and four cats</td>
+</tr><tr>
+	<td>School</td>
+	<td>Kadoorie </td>
+</tr><tr>
+	<td> Majors</td>
+	<td> Physics, Computer Science, and Translation</td>
+</tr><tr>
+	<td> What I like Doing</td>
+	<td>Running, Swimming, Biking, Doing math homework( jk), Hiking, Photography</td>
+</tr><tr>
+	<td>Favorite Animal</td>
+	<td>Turtles!!! </td>
+</tr>
+</div>
+
+
+

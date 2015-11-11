@@ -1,0 +1,32 @@
+<html>
+<header> <title> Contact Me </title> </header>
+<head> Contact Me 
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+<div class="menu">
+<ul>
+<li><a href="MyHomepage"> Home </a></li>
+<li><a href="Aboutme"> About Me </a></li>
+</ul>
+</div>
+<div class="image">
+<img src="Me.jpg" style="width:128px;height:128px;">
+</div>
+<div class="form">
+<form>
+Email:<br>
+<input type="email" name="email"><br>
+Subject:<br>
+<input type="text" name="subject"><br>
+Text:<br>
+<input type="text" name="text"><br>
+<input type="submit" name="Submit" value="Submit">
+</form>
+
+
+
+</form>
+
+</body>
+</html>
